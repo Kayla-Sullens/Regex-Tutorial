@@ -117,4 +117,4 @@ Quantifiers can be made lazy by adding a ? after it, which means that it will ma
 
 This tutorial was created by Kayla Sullens, a Math Educator turned Software Developer. I've been teaching Math in different capacities for 10+ years now, and I wanted to make a career change. I was always interested in coding in college, but never gave it a chance. Here we are and I couldn't be happier, especially since this feels a lot like a math lesson/tutorial. Please see my GitHub profile below.
 
-GitHub Profile
+[GitHub Profile](https://github.com/Kayla-Sullens)
