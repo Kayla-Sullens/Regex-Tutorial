@@ -1,10 +1,12 @@
 # Regular Expression Tutorial
 
-The purpose of this tutorial is to...
+The purpose of this tutorial is to explain what a regular expression is and how it can be used. A Regex (regular expression) can be used when a user is trying to match a specific character combination within a string, for example. This can then be used to validate something or to pull out certain information from a body of code. 
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+The regular expression code that I will describe is below, and I will explain the various components and functionality of the code. This code can be used to match emails, such as validating if an email follows the correct format needed. Below is a Table of Contents for the different components that will be explained. 
+
+Matching an Email - /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
 
 ## Table of Contents
 
